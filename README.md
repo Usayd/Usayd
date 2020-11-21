@@ -1,4 +1,4 @@
 ### Hi there 👋
 I work on cybersecurity and emerging technologies.
-- Personal Website: [https://infosec.cy](infosec.cy)
-- UniSA Staff Profile: [https://people.unisa.edu.au/Usayd.Marikar](people.unisa.edu.au/Usayd.Marikar)
+- Personal Website: [infosec.cy](https://infosec.cy)
+- UniSA Staff Profile: [people.unisa.edu.au/Usayd.Marikar](https://people.unisa.edu.au/Usayd.Marikar)
